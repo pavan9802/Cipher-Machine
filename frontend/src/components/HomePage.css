@@ -1,0 +1,24 @@
+.hp_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  background: #faf9f6;
+  height: 100vh;
+}
+.title_div {
+  width: fit-content;
+  height: fit-content;
+  text-align: center;
+}
+.title {
+  padding: 10px;
+  font-size: 4em;
+  margin-bottom: 5px;
+}
+
+.select {
+  font-size: 2em;
+  text-align: center;
+}

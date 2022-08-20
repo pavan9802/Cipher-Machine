@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "ciphermachine-8b012",
+    "real": "ciphermachine-8b012"
+  },
+  "targets": {}
+}

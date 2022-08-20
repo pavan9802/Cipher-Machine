@@ -1,0 +1,72 @@
+.polybius_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  row-gap: 5em;
+}
+.polybius_main_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  column-gap: 4em;
+  width: 100%;
+}
+.container_btn {
+  display: flex;
+  flex-direction: column;
+}
+.icn_btn {
+  font-size: 2em;
+  margin: 2.5px;
+  background-color: black;
+  color: white;
+}
+.e_btn {
+  padding: 10px;
+  font-size: 2em;
+  margin: 2.5px;
+  background-color: black;
+  color: white;
+}
+
+.d_btn {
+  padding: 10px;
+  font-size: 2em;
+  margin: 2.5px;
+  background-color: black;
+  color: white;
+}
+
+.submit_btn {
+  padding: 10px;
+  font-size: 2em;
+  margin: 2.5px;
+  background-color: black;
+  color: white;
+}
+
+textarea {
+  padding: 20px;
+  resize: none;
+  margin: 10px;
+  font-size: 1em;
+}
+button:hover {
+  color: black;
+  background-color: rgba(29, 28, 28, 0.2);
+}
+
+@media (max-width: 800px) {
+  .vignere_main_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    column-gap: 4em;
+    width: 100%;
+  }
+}
